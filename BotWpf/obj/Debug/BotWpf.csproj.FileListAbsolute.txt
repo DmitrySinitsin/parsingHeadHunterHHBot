@@ -1,0 +1,15 @@
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\bin\Debug\BotWpf.exe.config
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\bin\Debug\BotWpf.exe
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\bin\Debug\BotWpf.pdb
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.csprojAssemblyReference.cache
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\App.g.cs
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf_MarkupCompile.cache
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf_MarkupCompile.lref
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\MainWindow.baml
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.g.resources
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.Properties.Resources.resources
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.csproj.GenerateResource.cache
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.csproj.CoreCompileInputs.cache
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.exe
+C:\Users\Stalin2019\source\repos\HHBot\BotWpf\obj\Debug\BotWpf.pdb
